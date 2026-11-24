@@ -65,7 +65,7 @@ node tools/build_data.mjs --stores "C:/Users/-/Downloads/매장리스트_현재.
 - 시트 셀당 5만 자 제한 때문에 `원본JSON` 은 49,000자에서 잘립니다(정규화 탭에는 전체 저장).
 
 ## 다음 시즌
-`26AW/` 는 그대로 두고(아카이브), 새 시즌은 `node tools/build_data.mjs --season 27SS --hub ... --stores ...` 로 `27SS/` 폴더를 생성합니다. 루트 `index.html` 의 이동 주소와 `config.js` 의 시즌·endpoint 를 갱신하세요. (시즌마다 새 구글시트를 쓰면 raw 가 시즌별로 분리됩니다.) 접속 주소는 `https://4won.github.io/kangol-store-survey/26AW/` 형태입니다.
+`26AW/` 는 그대로 두고(아카이브), 새 시즌은 `node tools/build_data.mjs --season 27SS --hub ... --stores ...` 로 `27SS/` 폴더를 생성합니다. 루트 `index.html` 의 이동 주소와 `config.js` 의 시즌·endpoint 를 갱신하세요. (시즌마다 새 구글시트를 쓰면 raw 가 시즌별로 분리됩니다.) 접속 주소는 `https://4won418.github.io/kangol-store-survey/26AW/` 형태입니다.
 
 ## 취합 리포트 (A4 가로 HTML → PDF)
 ```bash

@@ -34,7 +34,7 @@ node tools/build_data.mjs        # 26AW/data/products.json · stores.json · app
 > `endpoint` 가 비어 있으면 **테스트 모드**(제출 시 JSON 파일로 저장)입니다. 매장에 링크를 주기 전에 반드시 채우세요.
 
 ## 접속 주소
-`https://4won.github.io/kangol-store-survey/sku-26AW/`
+`https://4won418.github.io/kangol-store-survey/sku-26AW/`
 
 ## 취합 리포트 (A4 가로 HTML)
 ```bash
